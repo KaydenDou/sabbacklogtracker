@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bgrie\\OneDrive - Northcentral Technical College\\Courses\\Software Architecture\\BacklogManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD65AFC-9808-486E-ADE2-FB8F565C1DE8}|BacklogManagementSystem\\BacklogManagementSystem.csproj|c:\\users\\bgrie\\onedrive - northcentral technical college\\courses\\software architecture\\backlogmanagementsystem\\backlogmanagementsystem\\services\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD65AFC-9808-486E-ADE2-FB8F565C1DE8}|BacklogManagementSystem\\BacklogManagementSystem.csproj|solutionrelative:backlogmanagementsystem\\services\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD65AFC-9808-486E-ADE2-FB8F565C1DE8}|BacklogManagementSystem\\BacklogManagementSystem.csproj|c:\\users\\bgrie\\onedrive - northcentral technical college\\courses\\software architecture\\backlogmanagementsystem\\backlogmanagementsystem\\services\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD65AFC-9808-486E-ADE2-FB8F565C1DE8}|BacklogManagementSystem\\BacklogManagementSystem.csproj|solutionrelative:backlogmanagementsystem\\services\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD65AFC-9808-486E-ADE2-FB8F565C1DE8}|BacklogManagementSystem\\BacklogManagementSystem.csproj|c:\\users\\bgrie\\onedrive - northcentral technical college\\courses\\software architecture\\backlogmanagementsystem\\backlogmanagementsystem\\services\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD65AFC-9808-486E-ADE2-FB8F565C1DE8}|BacklogManagementSystem\\BacklogManagementSystem.csproj|solutionrelative:backlogmanagementsystem\\services\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD65AFC-9808-486E-ADE2-FB8F565C1DE8}|BacklogManagementSystem\\BacklogManagementSystem.csproj|c:\\users\\bgrie\\onedrive - northcentral technical college\\courses\\software architecture\\backlogmanagementsystem\\backlogmanagementsystem\\services\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD65AFC-9808-486E-ADE2-FB8F565C1DE8}|BacklogManagementSystem\\BacklogManagementSystem.csproj|solutionrelative:backlogmanagementsystem\\services\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD65AFC-9808-486E-ADE2-FB8F565C1DE8}|BacklogManagementSystem\\BacklogManagementSystem.csproj|c:\\users\\bgrie\\onedrive - northcentral technical college\\courses\\software architecture\\backlogmanagementsystem\\backlogmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD65AFC-9808-486E-ADE2-FB8F565C1DE8}|BacklogManagementSystem\\BacklogManagementSystem.csproj|solutionrelative:backlogmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bgrie\\OneDrive - Northcentral Technical College\\Courses\\Software Architecture\\BacklogManagementSystem\\BacklogManagementSystem\\Services\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "BacklogManagementSystem\\Services\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\bgrie\\OneDrive - Northcentral Technical College\\Courses\\Software Architecture\\BacklogManagementSystem\\BacklogManagementSystem\\Services\\MovieRepository.cs",
+              "RelativeToolTip": "BacklogManagementSystem\\Services\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:15:17.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bgrie\\OneDrive - Northcentral Technical College\\Courses\\Software Architecture\\BacklogManagementSystem\\BacklogManagementSystem\\Services\\GameRepository.cs",
+              "RelativeDocumentMoniker": "BacklogManagementSystem\\Services\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\bgrie\\OneDrive - Northcentral Technical College\\Courses\\Software Architecture\\BacklogManagementSystem\\BacklogManagementSystem\\Services\\GameRepository.cs",
+              "RelativeToolTip": "BacklogManagementSystem\\Services\\GameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:15:00.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bgrie\\OneDrive - Northcentral Technical College\\Courses\\Software Architecture\\BacklogManagementSystem\\BacklogManagementSystem\\Services\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BacklogManagementSystem\\Services\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\bgrie\\OneDrive - Northcentral Technical College\\Courses\\Software Architecture\\BacklogManagementSystem\\BacklogManagementSystem\\Services\\BookRepository.cs",
+              "RelativeToolTip": "BacklogManagementSystem\\Services\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:14:45.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bgrie\\OneDrive - Northcentral Technical College\\Courses\\Software Architecture\\BacklogManagementSystem\\BacklogManagementSystem\\Services\\IRepository.cs",
+              "RelativeDocumentMoniker": "BacklogManagementSystem\\Services\\IRepository.cs",
+              "ToolTip": "C:\\Users\\bgrie\\OneDrive - Northcentral Technical College\\Courses\\Software Architecture\\BacklogManagementSystem\\BacklogManagementSystem\\Services\\IRepository.cs",
+              "RelativeToolTip": "BacklogManagementSystem\\Services\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:14:29.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bgrie\\OneDrive - Northcentral Technical College\\Courses\\Software Architecture\\BacklogManagementSystem\\BacklogManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BacklogManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\bgrie\\OneDrive - Northcentral Technical College\\Courses\\Software Architecture\\BacklogManagementSystem\\BacklogManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BacklogManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:14:06.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
